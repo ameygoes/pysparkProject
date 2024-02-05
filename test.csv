@@ -1,0 +1,16 @@
+CustomerID,FirstName,LastName,Email,Gender,Age,Country,AccountCreated,LastLogin,TotalSpend
+1,John,Doe,johndoe@example.com,Male,28,USA,2023-01-01,2023-01-15,120.50
+2,Jane,Smith,janesmith@example.com,Female,34,Canada,2023-02-01,2023-02-12,89.90
+3,Bob,Brown,bobbrown@example.com,Male,45,UK,2023-01-20,2023-01-25,305.60
+4,Lisa,White,lisawhite@example.com,Female,23,USA,2023-03-15,2023-03-16,150.00
+5,Mark,Black,markblack@example.com,Male,37,Australia,2023-02-10,2023-02-20,204.70
+6,Emily,Green,emilygreen@example.com,Female,29,New Zealand,2023-03-05,2023-03-10,255.25
+7,James,Hall,jameshall@example.com,Male,41,UK,2023-01-30,2023-02-02,320.80
+8,Olivia,Scott,oliviascott@example.com,Female,19,USA,2023-03-12,2023-03-13,95.60
+9,William,Johnson,williamjohnson@example.com,Male,36,Canada,2023-01-22,2023-01-30,180.40
+10,Ava,Jones,avajones@example.com,Female,31,USA,2023-02-15,2023-02-18,240.90
+11,Noah,Lee,noahlee@example.com,Male,22,UK,2023-01-05,2023-01-09,88.00
+12,Mia,Brown,miabrown@example.com,Female,27,Canada,2023-02-25,2023-02-26,175.50
+13,Ethan,Clark,ethanclark@example.com,Male,39,Australia,2023-01-18,2023-01-19,290.30
+14,Emma,Wilson,emmawilson@example.com,Female,42,New Zealand,2023-03-01,2023-03-03,310.20
+15,Michael,Martin,michaelmartin@example.com,Male,33,UK,2023-02-05,2023-02-
